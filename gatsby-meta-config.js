@@ -2,8 +2,8 @@ module.exports = {
   title: `Ross Jo Dev`,
   description: `Blog posted about dev/life related post`,
   author: `Ross Jo`,
-  introduction: `A person who wants to make the world a better place`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `A person who wants to make world a better place`,
+  siteUrl: `https://ross-jo.netlify.app/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: ``, // Your GitHub account
