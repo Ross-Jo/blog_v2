@@ -82,4 +82,8 @@ body.dark {
   td {
     border-bottom: 1px solid #eee;
   }
+
+  .highlight {
+    background-color: $dark-text-highlight-color;
+  }
 }

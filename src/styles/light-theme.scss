@@ -69,4 +69,8 @@ body.light {
       color: $navigator-text-color;
     }
   }
+
+  .highlight {
+    background-color: $light-text-highlight-color;
+  }
 }
