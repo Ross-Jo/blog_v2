@@ -100,7 +100,7 @@ Redshift의 테이블 속성 파악 및 SQL 쿼리 튜닝을 통해 Job 수행�
   * "모든 개발자를 위한 HTTP 웹 기본 지식", 김영한, 인프런 (완강)
   * "더 자바, 애플리케이션을 테스트하는 다양한 방법", 백기선, 인프런 (진행중)
 
-![스프링 부트와 AWS로 혼자 구현하는 웹 서비스](content/blog/retrospect/images/0101/2022-01-01_book.png)
+![스프링 부트와 AWS로 혼자 구현하는 웹 서비스](./images/0101/2022-01-01_book.png)
 <div style="opacity: 0.6; text-align: center; vertical-align: top;">
   <sup>존경하는 개발자중에 한 분인 이동욱님의 저서. 스프링을 시작하는 사람들이 읽기 좋았던 것 같다</sup>
 </div>
@@ -121,7 +121,7 @@ AA강의에서 다룬 주된 내용은 OOP/OOAD/UML, Design Pattern, 요구공�
 회사 입사하고 나만의 전진기지가 되어 주었던 삼성타운 원룸을 떠나 이사를 했다. 각종 유튜브 영상 시청 (특히 '안선생'이란 유튜버 분이 도움이 많이 되었다. 강추) 
 및 블로그 글 정독, 발품팔이 등을 통해 철저하게 매물을 골라서 그런지 이사한 곳은 집 크기도 그렇고 이전 집보다 훨씬 만족스럽다. 과연 여기서는 얼마나 머무르게 될지? 🧐 
 
-![삼성타운](content/blog/retrospect/images/0101/KakaoTalk_Photo_2022-01-10-22-53-49.jpeg)
+![삼성타운](./images/0101/KakaoTalk_Photo_2022-01-10-22-53-49.jpeg)
 <div style="opacity: 0.6; text-align: center; vertical-align: top;">
   <sup>굿바이 첫번째 자취방</sup>
 </div>
@@ -129,7 +129,7 @@ AA강의에서 다룬 주된 내용은 OOP/OOAD/UML, Design Pattern, 요구공�
 ### 연애
 올해 한 일중에 가장 공들이고 성공적이었던 일 💌
 
-![서점](content/blog/retrospect/images/0101/KakaoTalk_Photo_2022-01-10-22-53-55.jpeg)
+![서점](./images/0101/KakaoTalk_Photo_2022-01-10-22-53-55.jpeg)
 
 ### 자동차 구매 및 운전
 항상 이동의 자유가 있다면 좋겠다고 생각하고 있었는데, 중고 자동차를 1대 구매해서 잘 사용하고 있다. 상태도 양호해서 앞으로 꽤 오랫동안 타고 다닐 수 있을 것 같다.
