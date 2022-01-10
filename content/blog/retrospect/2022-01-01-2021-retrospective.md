@@ -3,7 +3,7 @@ title: '2021 회고'
 date: 2022-01-01 17:01:92
 category: retrospect
 thumbnail: { thumbnailSrc }
-draft: true
+draft: false
 ---
 
 ## 목차
