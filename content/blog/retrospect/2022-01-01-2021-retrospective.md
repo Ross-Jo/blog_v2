@@ -121,7 +121,7 @@ AA강의에서 다룬 주된 내용은 OOP/OOAD/UML, Design Pattern, 요구공�
 회사 입사하고 나만의 전진기지가 되어 주었던 삼성타운 원룸을 떠나 이사를 했다. 각종 유튜브 영상 시청 (특히 '안선생'이란 유튜버 분이 도움이 많이 되었다. 강추) 
 및 블로그 글 정독, 발품팔이 등을 통해 철저하게 매물을 골라서 그런지 이사한 곳은 집 크기도 그렇고 이전 집보다 훨씬 만족스럽다. 과연 여기서는 얼마나 머무르게 될지? 🧐
 
-<img alt="삼성타운" src="./images/0101/KakaoTalk_Photo_2022-01-10-22-53-49.jpeg" width="500"/>
+![삼성타운](./images/0101/KakaoTalk_Photo_2022-01-10-22-53-49.jpeg)
 <div style="opacity: 0.6; text-align: center; vertical-align: top;">
   <sup>굿바이 첫번째 자취방</sup>
 </div>
