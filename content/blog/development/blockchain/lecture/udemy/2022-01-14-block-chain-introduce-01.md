@@ -3,7 +3,7 @@ title: block_chain_introduce
 date: 2022-01-14 22:01:72
 category: blockchain
 thumbnail: { thumbnailSrc }
-draft: true
+draft: false
 ---
 
 ## 강의명 : 【글로벌 Best】 산업 적용 사례와 함께 하는 Blockchain 입문 (한글자막)
