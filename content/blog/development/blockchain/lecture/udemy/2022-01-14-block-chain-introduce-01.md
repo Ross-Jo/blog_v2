@@ -1,5 +1,5 @@
 ---
-title: block_chain_introduce
+title: 블록체인 입문 (Udemy)
 date: 2022-01-14 22:01:72
 category: blockchain
 thumbnail: { thumbnailSrc }
